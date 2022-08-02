@@ -1,0 +1,22 @@
+*{
+    padding:0;
+    margin:0;
+   
+}   
+body{
+    background-image: url('../img/Fundo.png');
+    background-size: cover;}
+section{
+    text-align: center;
+    margin-top: 240px;
+    margin-bottom:60vh;
+}
+section img{
+    width: 414px;
+    height: 321px;
+
+}
+section img:hover{
+    transform: translateX(10px) scale(1.2);
+   
+}
